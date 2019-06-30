@@ -1,0 +1,6 @@
+[package]
+name="training_test"
+
+[[solvers]]
+name="TestTrainSolver"
+class="testtrain/solver/TestTrainSolver"
